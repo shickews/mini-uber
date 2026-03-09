@@ -18,6 +18,6 @@ git clone https://github.com/shickews/mini-uber.git
 Follow the instructions in the tutorials to set up your mini Uber application.
 
 ## Future Plans
-- Expand functionalities
-- Improve user interface
-- Add mobile support.
+- Add payment integration
+- Implement a driver app
+- Enhance the user interface
